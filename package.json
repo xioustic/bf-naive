@@ -1,0 +1,19 @@
+{
+  "name": "bf-naive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brainfuck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xioustic/bf-naive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xioustic/bf-naive/issues"
+  },
+  "homepage": "https://github.com/xioustic/bf-naive#readme"
+}
